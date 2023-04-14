@@ -1,4 +1,4 @@
-QBCore = exports['qb-core']:GetCoreObject()
+
 local PlayerData              = {}
 local carryingBackInProgress  = false
 local accepted = false

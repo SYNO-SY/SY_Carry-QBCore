@@ -7,7 +7,7 @@ name        'SY_CARRY'
 author      'SYNO'
 version     'QB 1.0'
 license     'GNU General Public License v3.0'
-repository  'https://github.com/SYNO-SY/SY_Carry QBCore'
+repository  'https://github.com/SYNO-SY/SY_Carry-QBCore'
 description 'A Carry Script With Request System for Fivem RP Server'
 
 ui_page 'ui/ui.html'

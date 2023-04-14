@@ -31,6 +31,7 @@ h1 {
   -webkit-text-stroke: 0.5px rgb(255, 255, 255);
 }
 .quit {
+  color: #ffffff;
   position: absolute;
   left: 94%;
   margin-right: -50%;
@@ -39,7 +40,7 @@ h1 {
 }
 
 .quit:hover {
-  color: rgba(91, 5, 110, 0.744);
+  color: rgb(103, 103, 103);
 }
 
 img {
@@ -61,14 +62,14 @@ img {
 .btn {
   background-color: rgba(0, 0, 0, 1);
   color: rgb(110, 237, 237);
-  font-family: "Joyride-regular";
+  font-family: Montserrat, Quicksand, sans-serif;
   letter-spacing: 0.15em;
   font-weight: normal;
-  font-size: 18px;
+  font-size: 24px;
   text-shadow: 0 0 0.5em rgb(110, 237, 237);
   background-color: rgba(44, 157, 157, 0.411);
-  border: 0.15em solid rgb(255, 255, 255);
-  border-radius: 1em;
+  border: 0.1em solid rgb(255, 255, 255);
+  border-radius: 10px;
   font-family: Quicksand, sans-serif;
 }
 
